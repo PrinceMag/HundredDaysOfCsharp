@@ -13,10 +13,13 @@ namespace HundredDaysOfCsharp
             
             TestDayTwo testDayTwo = new TestDayTwo();
             testDayTwo.TestFoDayTwo();
-            */
 
             TestDayThree testDayThree = new TestDayThree();
             testDayThree.TestFoDayThree();
+            */
+
+            TestDayFour testDayFour = new TestDayFour();
+            testDayFour.TestForDayFour();
         }
     }
 }
