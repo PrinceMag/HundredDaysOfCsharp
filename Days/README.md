@@ -9,7 +9,7 @@ Given the two integers `numBottles` and `numExchange`, return the maximum number
 ## Example 1
 
 <p align="center">
-  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/assets/images/example1.png">
+  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/assets/images/example1.png">
 </p>
 
 **Input**: `numBottles = 9`, `numExchange = 3`  
@@ -19,7 +19,7 @@ Given the two integers `numBottles` and `numExchange`, return the maximum number
 ## Example 2
 
 <p align="center">
-  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/assets/images/example2.png">
+  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/assets/images/example2.png">
 </p>
 
 **Input**: `numBottles = 15`, `numExchange = 4`  
