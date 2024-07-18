@@ -1,0 +1,14 @@
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.AssemblyInfoInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.AssemblyInfo.cs
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.csproj.CoreCompileInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\bin\Debug\net8.0\HundredDaysOfCsharp.exe
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\bin\Debug\net8.0\HundredDaysOfCsharp.deps.json
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\bin\Debug\net8.0\HundredDaysOfCsharp.runtimeconfig.json
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\bin\Debug\net8.0\HundredDaysOfCsharp.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\bin\Debug\net8.0\HundredDaysOfCsharp.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\refint\HundredDaysOfCsharp.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.genruntimeconfig.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\ref\HundredDaysOfCsharp.dll
