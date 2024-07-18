@@ -10,7 +10,7 @@ namespace HundredDaysOfCsharp.Tests
     public class TestDayOne
     {
 
-        DayOne d1 = new DayOne();
+        DayTwo d1 = new DayTwo();
         private int numBottles;
         private int numExchange;
         private int result;
