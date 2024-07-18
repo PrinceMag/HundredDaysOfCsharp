@@ -17,7 +17,7 @@ The file system starts in the main folder, then the operations in logs are perfo
 
 
 <p align="center">
-  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/Two/assets/images/example1.png">
+  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/Three/assets/images/example1.png">
 </p>
 
 **Input:** `logs = ["d1/","d2/","../","d21/","./"]`
@@ -27,7 +27,7 @@ Explanation: `Use this change folder operation "../" 2 times and go back to the 
 ### Example 2:
 
 <p align="center">
-  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/Two/assets/images/example2.png">
+  <img src="https://github.com/PrinceMag/HundredDaysOfCsharp/blob/main/Days/Three/assets/images/example2.png">
 </p>
 
 **Input:** `logs = ["d1/","d2/","./","d3/","../","d31/"]`
