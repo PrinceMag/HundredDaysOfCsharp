@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HundredDaysOfCsharp.Days;
+using HundredDaysOfCsharp.Days.One;
 
 namespace HundredDaysOfCsharp.Tests
 {

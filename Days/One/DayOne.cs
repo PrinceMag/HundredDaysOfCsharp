@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HundredDaysOfCsharp.Days
+namespace HundredDaysOfCsharp.Days.One
 {
     public class DayOne
     {
@@ -15,7 +15,7 @@ namespace HundredDaysOfCsharp.Days
             while (numBottles >= numExchange)
             {
                 totalBottles += numBottles / numExchange;
-                numBottles = (numBottles / numExchange) + (numBottles % numExchange);
+                numBottles = numBottles / numExchange + numBottles % numExchange;
             }
 
             return totalBottles;

@@ -12,3 +12,4 @@ C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\r
 C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.genruntimeconfig.cache
 C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\ref\HundredDaysOfCsharp.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\HundredDaysOfCsharp\obj\Debug\net8.0\HundredDaysOfCsharp.sourcelink.json
