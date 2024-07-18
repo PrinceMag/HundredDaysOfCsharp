@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HundredDaysOfCsharp.Days.One
 {
-    public class DayTwo
+    public class DayOne
     {
         public int MaxBottles(int numBottles, int numExchange)
         {
